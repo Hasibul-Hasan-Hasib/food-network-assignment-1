@@ -123,6 +123,7 @@ span{
 }
 .box h2{
     color:rgba(0, 0, 0, 0.827);
+    margin-bottom:0 ;
 }
 .box img{
     width: 100%;
@@ -147,6 +148,7 @@ span{
 #container5 h2{
     color: rgba(0, 0, 0, 0.889);
     font-size: 350%;
+    margin-bottom:0 ;
 }
 
 
