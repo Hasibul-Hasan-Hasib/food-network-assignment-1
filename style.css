@@ -43,7 +43,7 @@ header a {
   padding: 10px 20px;
   margin: 0 7%;
 }
-.nav {
+#nav {
   font-size: medium;
   align-items: center;
   display: flex;
@@ -158,8 +158,23 @@ header a {
 
 /*         section 6           */
 
-
-
+#container6{
+    display: flex;
+    margin: 3% 7%;
+    align-items: center;
+}
+#container6 h2{
+    text-align: center;
+    width: 50%;
+    padding-right: 10%;
+}
+#container6 p{
+    text-align: center;
+    border-left: 5px solid;
+    border-image: linear-gradient(gray, black);
+    border-image-slice: 1;
+    padding-top: 2%;
+}
 
 
 /*   footer   */
