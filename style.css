@@ -1,7 +1,11 @@
+*{
+  scroll-behavior: smooth;
+}
 body {
   margin: 0;
   font-family: "Roboto", sans-serif;
   text-align: left;
+  
 }
 h1 {
   font-size: 500%;
