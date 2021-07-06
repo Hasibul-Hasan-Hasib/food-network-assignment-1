@@ -132,3 +132,6 @@ footer{
     background-color: rgba(8, 5, 5, 0.972);
     padding: 3%;
 }
+footer p{
+    color: azure;
+}
